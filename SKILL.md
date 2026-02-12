@@ -1,12 +1,10 @@
 ---
 name: incremental-improvement-practice
-description: Framework for pursuing "better" through small, consistent changes rather
-  than waiting for breakthrough solutions. Based on Atul Gawande's philosophy from
-  "Better.
+description: Framework for pursuing "better" through small, consistent changes rather than waiting for breakthrough solutions. Based on Atul Gawande's philosophy from "Better.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - incremental-improvement-practice
 - transformation
